@@ -1,4 +1,5 @@
 # cs50
+#Note: Since I have not used the cs50 appliance, I could not get some files to work from pset3. I already know php so I am skipping other psets. This is the end of my cs50 journey.
 clone the repo
 to compile the code u can either do
 i) make filename
@@ -12,3 +13,4 @@ then do ./filename
 else 
 
 then do ./a.out
+
